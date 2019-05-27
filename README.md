@@ -10,7 +10,7 @@ If you can improve it, please PR.
 Feel free to clone [this test repo](https://github.com/pliablepixels/is-multiwindow-test)
 
 ## Usage inside your app
-`cordova plugin add cordova-plugin-multiwindow --save`
+`cordova plugin add cordova-plugin-multi-window --save`
 
 ### To get multi-window state:
 
